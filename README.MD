@@ -21,8 +21,7 @@ this program retrives the latest news of tech from techcrunch and posts it on tw
     and then export by pressing the downward arrow. navigate to twitter_cookies.json(the file is already in the folder) and paste all of that in.
 
 3. **MUST DO FOR THE PROGRAM TO WORK**
-    if there is a problem with line 25. then make sure that your running the program from the parent folder or just give the full path e.g. C:\Users\[NAME]\[downloads]\day-51-TWitter-bot
-
+    if there is a problem with line 25. then make sure that your running the program from the parent folder or just give the full path e.g. C:\Users\[NAME]\[downloads]\Twitter-bot
 
     if you intend not make any changes. then the program must run on the parent folder e.g. TWitter-bot directory
 
