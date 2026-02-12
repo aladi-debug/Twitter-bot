@@ -1,6 +1,6 @@
 # Project Title: TechCrunch-Twitter Bot 🤖
 
-this program retrives the latest news of tech from techcrunch 
+this program retrives the latest news of tech from techcrunch and posts it on twitter
 ## 🚀 Features
 - **Scraper:** Uses [feedparser](https://pythonhosted.org/feedparser/introduction.html) to get the "latest" [techcrunch](https://TechCrunch.com) news.
 - **Bypass:** Injects session cookies to skip Google/Twitter login using [editthiscookie](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol). Note: This is necessary because Google blocks sign-in attempts from automated browsers unconditionally [learnmore](https://support.google.com/accounts/answer/7675428?hl=en&co=GENIE.Platform%3DAndroid), it makes the code less by a huge margin since you don't need to know how every one prefers to log in, makes it securer since you won't have your human-readable credentials in the code as variables and i'm not(not yet) at the level where i could bypass the security of twitter specifically made to stop bots trying to bypass. 
