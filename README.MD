@@ -27,5 +27,5 @@ this program retrives the latest news of tech from techcrunch and posts it on tw
 
 
 
-[!IMPORTANT] Please note that extreme use (e.g., 500+ posts a day) may violate platform terms of service and/or degrade the experience for others. Please use this tool responsibly and in good faith. 
-
+> [!IMPORTANT]
+> Please note that extreme use (e.g., 500+ posts a day) may violate platform terms of service and/or degrade the experience for others. Please use this tool responsibly and in good faith.
