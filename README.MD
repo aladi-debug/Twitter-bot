@@ -9,7 +9,7 @@ this program retrives the latest news of tech from techcrunch and posts it on tw
 ## 🛠 Setup
 1. **Install Dependencies:**
    ```bash
-   pip install selenium feedparser json 
+   pip install selenium feedparser  
    
 
 
