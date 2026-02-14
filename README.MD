@@ -1,4 +1,4 @@
-# Project Title: TechCrunch-Twitter Bot 🤖
+# TechCrunch-Twitter Bot 🤖
 
 this program retrives the latest news of tech from techcrunch and posts it on twitter
 ## 🚀 Features
